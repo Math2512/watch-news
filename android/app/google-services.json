@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320928498064",
+    "firebase_url": "https://watchnews-36394.firebaseio.com",
+    "project_id": "watchnews-36394",
+    "storage_bucket": "watchnews-36394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320928498064:android:50c4113f97163bf70b3315",
+        "android_client_info": {
+          "package_name": "fr.mathieufontaine.watch_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320928498064-f72670cblpoa22je1bfib8303qrqrdv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJB7m4FdRPFrQdTOYJb0LMY_uto-u4q5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320928498064-f72670cblpoa22je1bfib8303qrqrdv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
